@@ -8,6 +8,7 @@
     >git add .(mindent állományra vonatkozik)
 - a verzió létrehozása
     .git commit -m "FirstCommit"
+     . git status
 - Távoli REPO létrehozása (a github oldalon):
 Összekapcsoljuk a távoli REPOT a helyivel:
     >tokken@git remote add origin https://github.com/MalyiZsuzsanna/TextRepo.git
