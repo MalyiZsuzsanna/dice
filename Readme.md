@@ -22,4 +22,4 @@
 - A publikálandó file nev index.html
 - a settings > Pages > Branch: nonból kiválasztottuk a master > save
 - Actionban láthatjuk a publikálási folyamatot
-- minden commit után automatikusan úra "publikálunk" az oldalt
+- minden commit után automatikusan újra "deploy" az oldallal.
