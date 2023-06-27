@@ -15,10 +15,11 @@
 - Melyik ágba teszük (Branch) az ágat a távoli Repo-ban:
     >git push -u master (legelső alkalommal kell ezt)
     >git push (további alkalomkor)
-- Token használata (ezzel azonosítjuk magunkat a GitHub-on)
+- Token használata (ezzel azonosítjuk magunkat a GitHub-on) (másoljuk a tokenünkből és a commanderrben jobb egérgomb és enter )
 
 ## Publikálás
 
 - A publikálandó file nev index.html
 - a settings > Pages > Branch: nonból kiválasztottuk a master > save
 - Actionban láthatjuk a publikálási folyamatot
+- minden commit után automatikusan úra "publikálunk" az oldalt
