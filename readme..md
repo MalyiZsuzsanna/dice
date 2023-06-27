@@ -11,7 +11,7 @@
      . git status
 - Távoli REPO létrehozása (a github oldalon):
 Összekapcsoljuk a távoli REPOT a helyivel:
-    >tokken@git remote add origin https://github.com/MalyiZsuzsanna/TextRepo.git
+    >tokken@git remote add origin https://github.com/MalyiZsuzsanna/TextRepo.git (legelső alkalommal)
 - Melyik ágba teszük (Branch) az ágat a távoli Repo-ban:
     >git push -u master (legelső alkalommal kell ezt)
     >git push (további alkalomkor)
